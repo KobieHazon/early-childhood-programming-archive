@@ -1,6 +1,6 @@
 # Early Childhood Programming Archive
 
-My selected early programming work.
+A collection of my early programming projects.
 
 ## Project Summary
 
