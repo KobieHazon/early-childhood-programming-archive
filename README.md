@@ -9,6 +9,7 @@ This repository consolidates representative childhood-era programming artifacts 
 ## Contents
 
 - `csharp/` contains selected early C# WinForms projects: arithmetic utilities, numeric checks, text checks, and table generation.
+- `web/` contains my early hand-written HTML pages about games, food, animals, music, and local history.
 
 ## Tech Stack
 
