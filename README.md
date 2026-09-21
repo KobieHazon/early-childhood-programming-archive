@@ -9,8 +9,6 @@ This repository consolidates representative childhood-era programming artifacts 
 ## Contents
 
 - `csharp/` contains selected early C# WinForms projects: arithmetic utilities, numeric checks, text checks, and table generation.
-- `web/` contains hand-written HTML pages. Old desktop paths and an old email address were removed before the first commit.
-- `docs/OMITTED_ARTIFACTS.md` lists recovered material that was intentionally left out.
 
 ## Tech Stack
 
