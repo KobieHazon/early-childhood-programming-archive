@@ -1,6 +1,6 @@
 # Early Childhood Programming Archive
 
-A collection of my early programming projects.
+A collection of programming projects I wrote before I was 14.
 
 ## Project Summary
 
